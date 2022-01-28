@@ -1,0 +1,17 @@
+---
+de:
+  decidim:
+    newsfeed:
+      name: Newsfeed
+      index:
+        title: Newsfeed
+        newsfeed_blog_posts:
+          one: Ein Blog Post
+          other: "%{count} Blog Posts"
+        newsfeed_blog_posts_found:
+          one: Ein Blog Post gefunden
+          other: "%{count} Blog Posts gefunden"
+        search: Suchen
+        show_all: Alle anzeigen
+    menu:
+      newsfeed: Newsfeed
